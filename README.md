@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I help businesses overcome complex challenges by developing and enhancing software solutions
+
 <!--
 **arthurgubaidullin/arthurgubaidullin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
